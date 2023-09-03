@@ -65,7 +65,7 @@ sudo docker run hello-world ()
 To clone the repository, run the following command
 
 ```
-git clone https://github.com/saleor/saleor-platform.git
+git clone https://github.com/System32NotFound/saleor-platform.git
 ```
 
 ## How to run it?
