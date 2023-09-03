@@ -22,7 +22,7 @@ services:
       - backend.env
     environment:
       - JAEGER_AGENT_HOST=jaeger
-      - DASHBOARD_URL=http://localhost:9000/
+      - DASHBOARD_URL=http://localhost:9003/
       - ALLOWED_HOSTS=localhost,api
 
   dashboard:
